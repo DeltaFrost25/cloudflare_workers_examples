@@ -1,0 +1,22 @@
+name = "hono-api"
+compatibility_date = "2023-12-01"
+
+[vars]
+SUPABASE_URL = "https://sstfvyresokxltvxzitj.supabase.co"
+SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNzdGZ2eXJlc29reGx0dnh6aXRqIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY5NjM4NjE0NSwiZXhwIjoyMDExOTYyMTQ1fQ.hby7GeeMvtYNBzZwfMthOzYI_wCROt7sjh-P7Bvdt4Y"
+
+# [[kv_namespaces]]
+# binding = "MY_KV_NAMESPACE"
+# id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+# [[r2_buckets]]
+# binding = "MY_BUCKET"
+# bucket_name = "my-bucket"
+
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "my-database"
+# database_id = ""
+
+# [ai]
+# binding = "AI"
